@@ -12,6 +12,7 @@ void yyerror(const char* msg) {
 %token NUMBER
 %token ADD SUB MUL DIV ABS
 %token EOL
+%token ERROR
 
 %%
 
